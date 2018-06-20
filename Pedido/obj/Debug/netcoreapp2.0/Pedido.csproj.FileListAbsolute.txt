@@ -1,0 +1,11 @@
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\bin\Debug\netcoreapp2.0\Pedido.deps.json
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\bin\Debug\netcoreapp2.0\Pedido.runtimeconfig.json
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\bin\Debug\netcoreapp2.0\Pedido.runtimeconfig.dev.json
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\bin\Debug\netcoreapp2.0\Pedido.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\bin\Debug\netcoreapp2.0\Pedido.pdb
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\obj\Debug\netcoreapp2.0\Pedido.csprojAssemblyReference.cache
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\obj\Debug\netcoreapp2.0\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\obj\Debug\netcoreapp2.0\Pedido.AssemblyInfoInputs.cache
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\obj\Debug\netcoreapp2.0\Pedido.AssemblyInfo.cs
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\obj\Debug\netcoreapp2.0\Pedido.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\Pedido\obj\Debug\netcoreapp2.0\Pedido.pdb
