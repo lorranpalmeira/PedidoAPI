@@ -1,0 +1,17 @@
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\PedidoTestes.deps.json
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\PedidoTestes.runtimeconfig.json
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\PedidoTestes.runtimeconfig.dev.json
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\PedidoTestes.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\PedidoTestes.pdb
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\Pedido.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\bin\Debug\netcoreapp2.0\Pedido.pdb
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.csprojAssemblyReference.cache
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.csproj.CoreCompileInputs.cache
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.AssemblyInfoInputs.cache
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.AssemblyInfo.cs
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.csproj.CopyComplete
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.dll
+C:\Users\lorran.palmeira\Documents\Projetos\NetCore\PedidoAPI\PedidoTestes\obj\Debug\netcoreapp2.0\PedidoTestes.pdb
