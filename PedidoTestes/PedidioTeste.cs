@@ -54,6 +54,27 @@ namespace PedidoTestes
 
             Assert.Equal(200, result.StatusCode);
         }
+
+         public async Task PedidoPut()
+        {
+
+            var pedido = new Pedido.Pedido{
+                NomeCliente="Lorran",
+                Cpf="99999999999",
+                ValorTotal=1000.19
+            };
+            // Act
+            IActionResult actionResult = await _pedidoController.AlteraPedido(pedido);
+
+            // Assert
+            Assert.NotNull(actionResult);
+
+            OkObjectResult result = actionResult as OkObjectResult;
+
+            Assert.NotNull(result);
+
+            Assert.Equal(300, result.StatusCode);
+        }
         
     }
 }
