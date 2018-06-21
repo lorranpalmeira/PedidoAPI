@@ -22,6 +22,7 @@ namespace Pedido
                 _pedido._listaPedido.Add(pedido);
                 return Ok("Pedido Adicionado");
             }else{
+               
                 return BadRequest("Erro ao inserir");
             }
                 
@@ -51,6 +52,7 @@ namespace Pedido
 
             return Ok("pedido alterado com sucesso");
             }else{
+                            
                 return BadRequest("Erro ao alterar");
             }
             
