@@ -18,9 +18,14 @@ namespace Pedido
         [Route("Pedido")]
         public async Task<IActionResult> Pedido([FromBody]Pedido pedido)
         {
-            _pedido._listaPedido.Add(pedido);
-
-            return Ok("Pedido Adicionado");
+            if(ModelState.IsValid){
+                _pedido._listaPedido.Add(pedido);
+                return Ok("Pedido Adicionado");
+            }else{
+                return BadRequest("Erro ao inserir");
+            }
+                
+            
         }
 
         [HttpGet]
@@ -38,11 +43,17 @@ namespace Pedido
         {
             
             var obj = _pedido._listaPedido.FirstOrDefault(x => x.Id == pedido.Id);
-            obj.NomeCliente = pedido.NomeCliente;
+
+            if(ModelState.IsValid){
+                obj.NomeCliente = pedido.NomeCliente;
             obj.Cpf = pedido.Cpf;
             obj.Email = pedido.Email;
 
             return Ok("pedido alterado com sucesso");
+            }else{
+                return BadRequest("Erro ao alterar");
+            }
+            
         }
 
 
