@@ -16,7 +16,7 @@ namespace Pedido
 
         [HttpPost]
         [Route("Pedido")]
-        public async Task<IActionResult> Pedido([FromBody]Pedido pedido)
+        public async Task<IActionResult> AdicionarPedido([FromBody]Pedido pedido)
         {
             if(ModelState.IsValid){
                 _pedido._listaPedido.Add(pedido);
