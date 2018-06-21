@@ -36,11 +36,13 @@ namespace Pedido
         [Route("Pedido")]
         public async Task<IActionResult> AlteraPedido([FromBody] Pedido pedido)
         {
-            var pedidos =_pedido._listaPedido.ToList();
+            
+            var obj = _pedido._listaPedido.FirstOrDefault(x => x.Id == pedido.Id);
+            obj.NomeCliente = pedido.NomeCliente;
+            obj.Cpf = pedido.Cpf;
+            obj.Email = pedido.Email;
 
-            pedidos.Where(x => x.Id == pedido.Id);
-
-            return Ok(pedidos);
+            return Ok("pedido alterado com sucesso");
         }
 
 
