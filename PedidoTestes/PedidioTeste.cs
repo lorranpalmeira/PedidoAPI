@@ -73,7 +73,7 @@ namespace PedidoTestes
 
             Assert.NotNull(result);
 
-            Assert.Equal(300, result.StatusCode);
+            Assert.Equal(200, result.StatusCode);
         }
         
     }
